@@ -9,3 +9,5 @@ Excel - Screening Spreadsheet.xlsx - this file contains output from the analysis
 values.xlsx - this file contains actual UK spending and projected UK spending for graphing
 
 Top_50.xlsx - this file contains the top 50 drugs/products included in the analysis along with cost comparisons and projections
+
+A prototype analysis (2017 data) is available here: https://github.com/ebmdatalab/UK_US_Price_Comparison
