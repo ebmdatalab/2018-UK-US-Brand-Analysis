@@ -10,4 +10,6 @@ values.xlsx - this file contains actual UK spending and projected UK spending fo
 
 Top_50.xlsx - this file contains the top 50 drugs/products included in the analysis along with cost comparisons and projections
 
+Top_50_with_SSR.xlsx - this file contains calculations from the SSR/FSS sensitivity analysis 
+
 A prototype analysis (2017 data) is available here: https://github.com/ebmdatalab/UK_US_Price_Comparison
