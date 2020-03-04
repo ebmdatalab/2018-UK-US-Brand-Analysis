@@ -12,4 +12,6 @@ Top_50.xlsx - this file contains the top 50 drugs/products included in the analy
 
 Top_50_with_SSR.xlsx - this file contains calculations from the SSR/FSS sensitivity analysis 
 
+2018 Total Price SQL - this SQL query was used to calculate total actual expenditure in England for all drugs prescirbed in primary care. 
+
 A prototype analysis (2017 data) is available here: https://github.com/ebmdatalab/UK_US_Price_Comparison
