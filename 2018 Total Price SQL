@@ -1,0 +1,2 @@
+SELECT sum(actual_cost) FROM hscic.normalised_prescribing_standard 
+where month >= "2018-01-01" AND month <= "2018-12-31"
