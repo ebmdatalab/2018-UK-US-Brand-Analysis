@@ -14,4 +14,6 @@ Top_50_with_SSR.xlsx - this file contains calculations from the SSR/FSS sensitiv
 
 2018 Total Price SQL - this SQL query was used to calculate total actual expenditure in England for all drugs prescirbed in primary care. 
 
+Drug Plot.png - this plot contains total projected spending differences for each additional drug to verify that choosing the top 50 drugs was sensible. 
+
 A prototype analysis (2017 data) is available here: https://github.com/ebmdatalab/UK_US_Price_Comparison
